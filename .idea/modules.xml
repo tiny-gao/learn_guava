@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/guava_test/guava_test.iml" filepath="$PROJECT_DIR$/guava_test/guava_test.iml" />
       <module fileurl="file://$PROJECT_DIR$/happy.iml" filepath="$PROJECT_DIR$/happy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboottest/springboottest.iml" filepath="$PROJECT_DIR$/springboottest/springboottest.iml" />
     </modules>
   </component>
 </project>
